@@ -1,0 +1,37 @@
+body{
+    background-color: #c1b267;
+}
+h1{
+    font-size: xx-large;
+    color: #c1b267; 
+    text-align: center;
+}
+h1.title, h2{
+    font-size: xx-large;
+    color:red; 
+    text-align: center;
+}
+
+section.titulo{
+    text-align: center;
+    color
+}
+p.carta {
+    text-align: left; 
+    background-color:  #c1b267;
+}
+p.cafe{
+    text-align: center; 
+    background-color:  #c1b267);
+}
+p.contacto{
+    text-align: right; 
+    background-color:  #c1b267; 
+}
+p.carta2{
+    color: white; 
+}
+p.ubica, p.na{
+    text-align: center;
+    font-weight: 600;
+}
